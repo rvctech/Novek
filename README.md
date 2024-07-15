@@ -8,3 +8,5 @@ To build the project, run:
 
 ```bash
 g++ -o NMEAParser main.cpp NMEAParser.cpp
+
+./NMEAParser
